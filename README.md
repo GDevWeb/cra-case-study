@@ -55,7 +55,7 @@ Le système repose sur une logique RBAC explicite, définie dans [`docs/roles-et
 - Signalement visuel et textuel des erreurs de saisie
 - Structure HTML logique et composants accessibles
 
-Voir détails dans [`docs/accesibilite.md`](./docs/accesibilite.md)
+Voir détails dans [`docs/accessibilite.md`](./docs/accessibilite.md)
 
 ## Pipeline CI/CD
 
